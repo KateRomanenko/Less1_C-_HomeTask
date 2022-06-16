@@ -1,0 +1,15 @@
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /obj/Debug/net6.0/DZ_task1.csproj.AssemblyReference.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /obj/Debug/net6.0/DZ_task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /obj/Debug/net6.0/DZ_task1.AssemblyInfoInputs.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /obj/Debug/net6.0/DZ_task1.AssemblyInfo.cs
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /obj/Debug/net6.0/DZ_task1.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /bin/Debug/net6.0/DZ_task1
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /bin/Debug/net6.0/DZ_task1.deps.json
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /bin/Debug/net6.0/DZ_task1.runtimeconfig.json
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /bin/Debug/net6.0/DZ_task1.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /bin/Debug/net6.0/DZ_task1.pdb
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /obj/Debug/net6.0/DZ_task1.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /obj/Debug/net6.0/refint/DZ_task1.dll
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /obj/Debug/net6.0/DZ_task1.pdb
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /obj/Debug/net6.0/DZ_task1.genruntimeconfig.cache
+/Users/ekaterinaromanenko/Desktop/C Sharp/DZ_Less1/DZ_task1 /obj/Debug/net6.0/ref/DZ_task1.dll
