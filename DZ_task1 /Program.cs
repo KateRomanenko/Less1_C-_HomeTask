@@ -11,8 +11,10 @@ int b = 1857;
 if(b>a)
 {
     Console.WriteLine("max b");
+    Console.WriteLine("min a");
 }
 else
 {
     Console.WriteLine("max a");
+    Console.WriteLine("min b");
 }
